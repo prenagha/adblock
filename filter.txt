@@ -1,0 +1,24 @@
+[Adblock Plus 1.1]
+! Version: 20141006-A
+! Title: PCR Blocks
+! Expires: 5 days
+! Homepage: https://github.com/prenagha/adblock
+! Licence: https://github.com/prenagha/adblock/blob/master/LICENSE
+!
+! Please report any unblocked tracking or problems at
+! https://github.com/prenagha/adblock/issues
+!
+talkingpointsmemo.com###footer
+talkingpointsmemo.com###logo-row
+talkingpointsmemo.com##.newsletter-header
+talkingpointsmemo.com##.idealab-widget
+talkingpointsmemo.com###d-features
+talkingpointsmemo.com###polltracker-poll-widget
+talkingpointsmemo.com###newsletter-container
+talkingpointsmemo.com###main-nav-container
+talkingpointsmemo.com###hive-topics
+talkingpointsmemo.com##.article-footer
+tidbits.com###header
+tidbits.com###rightcolumn
+tidbits.com###slidedown_welcome
+tidbits.com##.header_reg
