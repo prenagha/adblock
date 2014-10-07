@@ -8,6 +8,14 @@
 ! Please report any unblocked tracking or problems at
 ! https://github.com/prenagha/adblock/issues
 !
+
+! disable all blocking on
+@@||csc.com
+@@||127.0.0.1
+
+
+! block UI annoyances on frequently visited sites
+
 talkingpointsmemo.com###footer
 talkingpointsmemo.com###logo-row
 talkingpointsmemo.com##.newsletter-header
@@ -15,9 +23,10 @@ talkingpointsmemo.com##.idealab-widget
 talkingpointsmemo.com###d-features
 talkingpointsmemo.com###polltracker-poll-widget
 talkingpointsmemo.com###newsletter-container
-talkingpointsmemo.com###main-nav-container
 talkingpointsmemo.com###hive-topics
 talkingpointsmemo.com##.article-footer
+talkingpointsmemo.com###chrome-nav-row
+
 tidbits.com###header
 tidbits.com###rightcolumn
 tidbits.com###slidedown_welcome
