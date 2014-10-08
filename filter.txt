@@ -12,7 +12,7 @@
 ! disable all blocking on
 @@||csc.com
 @@||127.0.0.1
-
+@@||concursolutions.com
 
 ! block UI annoyances on frequently visited sites
 
