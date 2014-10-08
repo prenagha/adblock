@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 20141006-B
+! Version: 20141008-A
 ! Title: PCR Blocks
 ! Expires: 5 days
 ! Homepage: https://github.com/prenagha/adblock
