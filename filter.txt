@@ -16,6 +16,8 @@
 
 ! block UI annoyances on frequently visited sites
 
+||seatguru.com/cheap-flights/minimal
+
 talkingpointsmemo.com###footer
 talkingpointsmemo.com###logo-row
 talkingpointsmemo.com##.newsletter-header
